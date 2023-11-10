@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2154" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "X": 994335, "Y": 6267603, "Risque": "Maison", "Etage": 2, "Usage": "Propriétaire", "ValeurAssuree": 236021, "alea": 0.73000001907348633, "taux": 0.073000001907348636, "cout": 17230.0 }, "geometry": { "type": "Point", "coordinates": [ 994335.0, 6267603.0 ] } },
+{ "type": "Feature", "properties": { "ID": 2, "X": 994406, "Y": 6267578, "Risque": "Villa", "Etage": 3, "Usage": "Propriétaire", "ValeurAssuree": 531240, "alea": 1.2599999904632568, "taux": 0.15199999809265138, "cout": 80748.0 }, "geometry": { "type": "Point", "coordinates": [ 994406.0, 6267578.0 ] } },
+{ "type": "Feature", "properties": { "ID": 3, "X": 994431, "Y": 6267425, "Risque": "Maison", "Etage": 1, "Usage": "Locataire", "ValeurAssuree": 200069, "alea": 0.0, "taux": 0.0, "cout": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 994431.0, 6267425.0 ] } },
+{ "type": "Feature", "properties": { "ID": 4, "X": 994516, "Y": 6267416, "Risque": "Appartement", "Etage": 4, "Usage": "Locataire", "ValeurAssuree": 15032, "alea": 0.0, "taux": 0.0, "cout": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 994516.0, 6267416.0 ] } },
+{ "type": "Feature", "properties": { "ID": 5, "X": 995414, "Y": 6267213, "Risque": "Entreprise", "Etage": 2, "Usage": "Propriétaire", "ValeurAssuree": 1022606, "alea": 1.0499999523162842, "taux": 0.10999999046325684, "cout": 112487.0 }, "geometry": { "type": "Point", "coordinates": [ 995414.0, 6267213.0 ] } },
+{ "type": "Feature", "properties": { "ID": 6, "X": 994522, "Y": 6266847, "Risque": "Maison", "Etage": 2, "Usage": "Propriétaire", "ValeurAssuree": 260023, "alea": 0.0, "taux": 0.0, "cout": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 994522.0, 6266847.0 ] } },
+{ "type": "Feature", "properties": { "ID": 7, "X": 997958, "Y": 6268622, "Risque": "Appartement", "Etage": 6, "Usage": "Propriétaire", "ValeurAssuree": 54221, "alea": 0.0, "taux": 0.0, "cout": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 997958.0, 6268622.0 ] } },
+{ "type": "Feature", "properties": { "ID": 8, "X": 997987, "Y": 6268622, "Risque": "Maison", "Etage": 1, "Usage": "Locataire", "ValeurAssuree": 262654, "alea": 0.0, "taux": 0.0, "cout": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 997987.0, 6268622.0 ] } },
+{ "type": "Feature", "properties": { "ID": 9, "X": 998004, "Y": 6268782, "Risque": "Maison", "Etage": 2, "Usage": "Propriétaire", "ValeurAssuree": 287964, "alea": 0.0, "taux": 0.0, "cout": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 998004.0, 6268782.0 ] } },
+{ "type": "Feature", "properties": { "ID": 10, "X": 997863, "Y": 6268698, "Risque": "Entreprise", "Etage": 3, "Usage": "Propriétaire", "ValeurAssuree": 25000056, "alea": 0.23999999463558197, "taux": 0.030499999597668647, "cout": 762502.0 }, "geometry": { "type": "Point", "coordinates": [ 997863.0, 6268698.0 ] } }
+]
+}
